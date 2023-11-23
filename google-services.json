@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050317616127",
+    "project_id": "realtime-ecc71",
+    "storage_bucket": "realtime-ecc71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050317616127:android:94e5eb215234b429c66dca",
+        "android_client_info": {
+          "package_name": "com.example.firepush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050317616127-jvti8uq6rdnrv1fs2tfuuapgqg1nmjb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB70oTn1F7X737i1cMa2QSBiFZewkWqeak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050317616127-jvti8uq6rdnrv1fs2tfuuapgqg1nmjb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
